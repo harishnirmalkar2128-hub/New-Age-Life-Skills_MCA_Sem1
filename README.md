@@ -30,4 +30,5 @@ Microsoft Office (Word, Excel, PowerPoint)
 LinkedIn Profile Builder
 
 PDF Export & Design Principles
+
 👤Harish Nirmalkar 📍Rungta International Skills University, Kohka,Bhilai 📧harishnirmalkar2128@gmail.com 
