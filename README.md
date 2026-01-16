@@ -3,6 +3,7 @@
 This repository contains my practical work, projects, and assignments for the New Age Life Skills (NALS) subject. The course focuses on building essential digital and professional skills for the modern workplace.
 
 📁 What's Inside?
+
 This repo includes projects and practice files related to:
 
 Canva – Social media graphics, posters, presentations, and banners.
@@ -16,6 +17,7 @@ MS Office – Word documents, PowerPoint presentations, and Excel sheets (data m
 Digital Banners & Posters – Design projects for events, web, and print.
 
 🎯 Purpose
+
 To document my learning and progress in digital productivity tools.
 
 To create a portfolio of practical designs and documents.
